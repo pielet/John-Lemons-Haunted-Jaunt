@@ -2,7 +2,7 @@
 
 ## How to play
 
-John Lemon is put at one end of a haunting room, and he has to find his way out after collecting all three stars on the map. Remember not to be spotted by the ~~cute~~ walking ghosts and demon statues, or else you will lose the game.
+John Lemon is put at one end of a haunting room. He needs your help to find his way out after collecting all three stars on the map. Remember not to be spotted by the ~~cute~~ walking ghosts and demon statues, or else you will lose the game.
 
 (Game exits automatically after finishing)
 
@@ -11,10 +11,10 @@ John Lemon is put at one end of a haunting room, and he has to find his way out 
 * `ESC` to exit
 
 ### How to run
-click `.exe` file in Build, CS files are in `Assets/Scripts`
+Just open the `.exe` file in `Build`, CS files are under `Assets/Scripts`
 
 ## Addictional contents
 
 1. `Space` to jump
-2. Added another two views (1 and 2). The camera will automatically adjust its distance to the character depending on occlusion.
+2. Added another two views (`1` and `2`). The camera will automatically adjust its distance to the character depending on occlusion.
 3. Added a new winning condition: get all 3 stars.
