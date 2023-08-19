@@ -1,6 +1,6 @@
 # John Lemon's Haunted Jaunt
 
-<img src="John_lemon.gif">
+![demo](./john_lemon.gif)
 
 Reference: Unity 3D tutorial [JohnLemon](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner)
 
